@@ -1,7 +1,5 @@
 provider "aws" {
   region  = "ca-central-1"
-  access_key = "AKIAT532D4I4BE7IULNW"
-  secret_key = "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"
   profile = "default"
 }
 
